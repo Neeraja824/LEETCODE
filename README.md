@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
 ## Math
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
