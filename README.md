@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Neeraja824/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
+| [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Neeraja824/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Neeraja824/LEETCODE/tree/master/0037-sudoku-solver) |
+| [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 ## Union Find
 |  |
 | ------- |
