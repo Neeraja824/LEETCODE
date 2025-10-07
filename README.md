@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Neeraja824/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Neeraja824/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Neeraja824/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Neeraja824/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
