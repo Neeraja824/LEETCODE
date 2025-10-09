@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Neeraja824/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Neeraja824/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Neeraja824/LEETCODE/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/Neeraja824/LEETCODE/tree/master/0065-valid-number) |
 ## Trie
 |  |
 | ------- |
