@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Neeraja824/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Neeraja824/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Neeraja824/LEETCODE/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Neeraja824/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Neeraja824/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
