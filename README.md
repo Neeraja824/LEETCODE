@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Neeraja824/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Neeraja824/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Neeraja824/LEETCODE/tree/master/3336-water-bottles-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -192,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
