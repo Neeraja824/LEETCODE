@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Neeraja824/LEETCODE/tree/master/0050-powx-n) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Neeraja824/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Neeraja824/LEETCODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Neeraja824/LEETCODE/tree/master/0065-valid-number) |
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Neeraja824/LEETCODE/tree/master/3336-water-bottles-ii) |
