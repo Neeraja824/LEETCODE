@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Neeraja824/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Neeraja824/LEETCODE/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -131,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Neeraja824/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Neeraja824/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neeraja824/LEETCODE/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Neeraja824/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Neeraja824/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0101-symmetric-tree) |
