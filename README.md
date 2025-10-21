@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Neeraja824/LEETCODE/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
