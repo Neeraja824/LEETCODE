@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Neeraja824/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Neeraja824/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Neeraja824/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Neeraja824/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Neeraja824/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Neeraja824/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Neeraja824/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Breadth-First Search
 |  |
