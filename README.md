@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Neeraja824/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Neeraja824/LEETCODE/tree/master/0125-valid-palindrome) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Neeraja824/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Neeraja824/LEETCODE/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Neeraja824/LEETCODE/tree/master/0125-valid-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
