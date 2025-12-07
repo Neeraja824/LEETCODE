@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Neeraja824/LEETCODE/tree/master/0136-single-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Neeraja824/LEETCODE/tree/master/0136-single-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
