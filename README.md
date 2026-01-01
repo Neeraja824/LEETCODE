@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Neeraja824/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Neeraja824/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Neeraja824/LEETCODE/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Neeraja824/LEETCODE/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Neeraja824/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeraja824/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
