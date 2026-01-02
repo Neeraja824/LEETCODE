@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Neeraja824/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Neeraja824/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Neeraja824/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Neeraja824/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
