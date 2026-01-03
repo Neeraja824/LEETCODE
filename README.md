@@ -360,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Neeraja824/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Neeraja824/LEETCODE/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
