@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Neeraja824/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0137-single-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
