@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Neeraja824/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Neeraja824/LEETCODE/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Neeraja824/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Neeraja824/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Neeraja824/LEETCODE/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Neeraja824/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Neeraja824/LEETCODE/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Neeraja824/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Neeraja824/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
