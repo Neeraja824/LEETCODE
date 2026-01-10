@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Neeraja824/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
