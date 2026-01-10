@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Neeraja824/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Neeraja824/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Neeraja824/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Neeraja824/LEETCODE/tree/master/0055-jump-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Neeraja824/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Neeraja824/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Neeraja824/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Neeraja824/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Neeraja824/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neeraja824/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
