@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Neeraja824/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Neeraja824/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Neeraja824/LEETCODE/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Neeraja824/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeraja824/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Neeraja824/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Neeraja824/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeraja824/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Neeraja824/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
