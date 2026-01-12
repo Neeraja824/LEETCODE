@@ -407,5 +407,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Neeraja824/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/Neeraja824/LEETCODE/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
