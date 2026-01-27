@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Neeraja824/LEETCODE/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Neeraja824/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/Neeraja824/LEETCODE/tree/master/0197-rising-temperature) |
 | [0610-triangle-judgement](https://github.com/Neeraja824/LEETCODE/tree/master/0610-triangle-judgement) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Neeraja824/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
