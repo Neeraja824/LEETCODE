@@ -423,4 +423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Neeraja824/LEETCODE/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/Neeraja824/LEETCODE/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Neeraja824/LEETCODE/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/Neeraja824/LEETCODE/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
