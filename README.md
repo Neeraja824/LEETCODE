@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Neeraja824/LEETCODE/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Neeraja824/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Neeraja824/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Neeraja824/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Neeraja824/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Neeraja824/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
