@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Neeraja824/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Neeraja824/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/Neeraja824/LEETCODE/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/Neeraja824/LEETCODE/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Neeraja824/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
