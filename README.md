@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/Neeraja824/LEETCODE/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 ## Matrix
 |  |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Neeraja824/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/Neeraja824/LEETCODE/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
