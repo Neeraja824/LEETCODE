@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Neeraja824/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [1200-minimum-absolute-difference](https://github.com/Neeraja824/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Neeraja824/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Neeraja824/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/Neeraja824/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Neeraja824/LEETCODE/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeraja824/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Neeraja824/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Neeraja824/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
