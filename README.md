@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Neeraja824/LEETCODE/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/Neeraja824/LEETCODE/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Neeraja824/LEETCODE/tree/master/0610-triangle-judgement) |
+| [1070-product-sales-analysis-iii](https://github.com/Neeraja824/LEETCODE/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Neeraja824/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Neeraja824/LEETCODE/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/Neeraja824/LEETCODE/tree/master/1179-reformat-department-table) |
