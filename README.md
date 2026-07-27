@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/Neeraja824/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Neeraja824/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Neeraja824/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Neeraja824/LEETCODE/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeraja824/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Neeraja824/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Neeraja824/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Neeraja824/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
