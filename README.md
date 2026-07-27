@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/Neeraja824/LEETCODE/tree/master/0704-binary-search) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Neeraja824/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Neeraja824/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Neeraja824/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Neeraja824/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeraja824/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Neeraja824/LEETCODE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Neeraja824/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Neeraja824/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
