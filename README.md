@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Neeraja824/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Neeraja824/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Neeraja824/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Neeraja824/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Neeraja824/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Neeraja824/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3583-count-special-triplets](https://github.com/Neeraja824/LEETCODE/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Neeraja824/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Neeraja824/LEETCODE/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Neeraja824/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
