@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Neeraja824/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Neeraja824/LEETCODE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Neeraja824/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Neeraja824/LEETCODE/tree/master/0836-rectangle-overlap) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Neeraja824/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
@@ -528,5 +532,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
