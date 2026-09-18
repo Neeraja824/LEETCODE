@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeraja824/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Neeraja824/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/Neeraja824/LEETCODE/tree/master/3336-water-bottles-ii) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Neeraja824/LEETCODE/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Neeraja824/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Neeraja824/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Neeraja824/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Neeraja824/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
@@ -518,4 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Neeraja824/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
