@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1390-four-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1390-four-divisors) |
 | [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/Neeraja824/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeraja824/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Neeraja824/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Neeraja824/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1390-four-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeraja824/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
@@ -528,11 +530,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
+| [1390-four-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1952-three-divisors) |
 ## Primality Test
 |  |
