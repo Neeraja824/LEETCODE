@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Neeraja824/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Neeraja824/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Neeraja824/LEETCODE/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Neeraja824/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Neeraja824/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Neeraja824/LEETCODE/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/Neeraja824/LEETCODE/tree/master/1925-count-square-sum-triples) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Neeraja824/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Neeraja824/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Neeraja824/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Neeraja824/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Dynamic Programming
 |  |
 | ------- |
