@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1200-minimum-absolute-difference](https://github.com/Neeraja824/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Neeraja824/LEETCODE/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Neeraja824/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Neeraja824/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Neeraja824/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Neeraja824/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Neeraja824/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Neeraja824/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/Neeraja824/LEETCODE/tree/master/3583-count-special-triplets) |
@@ -548,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
