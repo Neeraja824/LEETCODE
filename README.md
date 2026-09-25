@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Neeraja824/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Neeraja824/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Neeraja824/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Neeraja824/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/Neeraja824/LEETCODE/tree/master/0704-binary-search) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Neeraja824/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neeraja824/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Neeraja824/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Neeraja824/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
