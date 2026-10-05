@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Neeraja824/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Neeraja824/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0856-score-of-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Neeraja824/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Neeraja824/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Neeraja824/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neeraja824/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Neeraja824/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Neeraja824/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Neeraja824/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
@@ -581,4 +583,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Neeraja824/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
