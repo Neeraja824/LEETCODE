@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Neeraja824/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Neeraja824/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Neeraja824/LEETCODE/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Neeraja824/LEETCODE/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Neeraja824/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Neeraja824/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Neeraja824/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Neeraja824/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Neeraja824/LEETCODE/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Neeraja824/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Neeraja824/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Neeraja824/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Neeraja824/LEETCODE/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Neeraja824/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/Neeraja824/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Neeraja824/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Neeraja824/LEETCODE/tree/master/0794-swim-in-rising-water) |
